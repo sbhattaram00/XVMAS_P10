@@ -1,0 +1,23 @@
+Primary liver diagnosis	Sample_Name	Donor type	Donor age	Donor gender	Donor race	Sample_Group	High 	L2   miRNA 4.0 (Tissue)
+HCV-cirrhosis	V025 L1	DD	42	F	AA	High Injury	mV025_L1	mV025_L2
+PSC	V026 L1	DD	55	F	W	High Injury	mV026_L1	mV026_L2
+PSC + CCA	V028 L1	DD	61	M	W	High Injury	mV028_L1	mV028_L2
+Cholangio carcinoma	V031 L1	DD	22	M	W	High Injury	mV031_L1	mV031_L2
+HCV cirrhosis	V050 L1	DD	56	F	W	High Injury	mV050_L1	mV050_L2
+PRIMARY SCLEROSING CHOLANGITIS + HCC	V096 L1	DD	41	M	W	High Injury	mV096_L1	mV096_L2
+"RE-Tx (case V086, consented: copy placed as ID V098). Graft failure"	V098 L1	DD	39	M	W	High Injury	mV098_L1	mV098_L2
+"Sarcoidosis, Primary sclerosing cholangitis, Autoimmune hepatitis"	V099 L1	DD	39	F		High Injury	mV099_L1	mV099_L2
+"acute hepatitis B, Sub-fuliminant hepatic failure  "	V100 L1	DD	46	M	W	High Injury	mV100_L1	mV100_L2
+alcoholic cirrhosis wHCC	V101 L1	DCD	38	M	W	High Injury	mV101_L1	mV101_L2
+Autoimmune hepatitis	V104 L1	DD	61	F	W	High Injury	mV104_L1	mV104_L2
+EtOH	V033 L1	DD	63	M	W	Low Injury	mV033_L1	mV033_L2
+"PSC, autoimmune hepatitis"	V040 L1	DD	55	F	AA	Low Injury	mV040_L1	mV040_L2
+HCV cirrhosis; HCC	V043 L1	DD	45	F	W	Low Injury	mV043_L1	mV043_L2
+HCV cirrhosis woHCC	V051 L1	DD	41	F	W	Low Injury	mV051_L1	mV051_L2
+Primary Biliary Cirrhosis (AMA+)	V060 L1	DD	31	F	W	Low Injury	mV060_L1	mV060_L2
+NASH cirrhosis	V063 L1	DD	20	M	W	Low Injury	mV063_L1	mV063_L2
+NASH	V070 L1	DD	41	F	W	Low Injury	mV070_L1	mV070_L2
+HCV cirrhosis	V071 L1	DD	53	F	W	Low Injury	mV071_L1	mV071_L2
+NASH cirrhosis	V083 L1	DD	34	F	W	Low Injury	mV083_L1	mV083_L2
+HCV cirrhosis and alcoholic cirrhosis	V092 L1	DD	46	F	W	Low Injury	mV092_L1	mV092_L2
+Cryptogenic cirrhosis	V103 L1	DD	46	F	W	Low Injury	mV103_L1	mV103_L2
